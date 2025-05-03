@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "moku>=3.3.3",
+    "zeroconf>=0.146.5",
 ]
